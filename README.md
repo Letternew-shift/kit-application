@@ -1,24 +1,24 @@
 # Información
-- Nombre:
-- Número de control:
-- Grupo:
+- Nombre: Katerinne Kreishell Irusta Torres
+- Número de control: 1224100611
+- Grupo: GTI174
 
 ## Especificaciones del proyecto
 | nombre del proyecto | Framework | versión |
 |--|--| -- |
-| kit-application | React + Vite | '1.0.0' |
-| backend | NestJS | '1.0.0-beta' |
+| kit-application | React + Vite | `1.0.0` |
+| backend | NestJS | `1.0.0-beta` |
 
 ## Ejecución
 Para inciar el proyecto se debe ejecutar el comando:
-''' cmd
+``` cmd
     npm run start:dev
-'''
+```
 
 ## Variables de entorno
 Para que la aplicación funcione se necesitan las siguientes variables:
-- **API_URL:** https://api.com/v1
-- **Port:** 8000
+- **API_URL:** `https://api.com/v1`
+- **Port:** `8000`
 
 ## Participantes
 - [Kreishell Irusta](https://github.com/Letternew-shift/kit-application)
